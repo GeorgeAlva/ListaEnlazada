@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Nodo()
+comment1.params=valor
+comment1.target=void\ setValor(java.lang.Object)
+comment10.params=
+comment10.target=void\ listar()
+comment2.params=
+comment2.target=java.lang.Object\ getValor()
+comment3.params=siguiente
+comment3.target=void\ setSiguiente(Nodo)
+comment4.params=
+comment4.target=Nodo\ getSiguiente()
+comment5.params=
+comment5.target=int\ MostarTama\u00F1o()
+comment6.params=
+comment6.target=boolean\ esVacia()
+comment7.params=valor
+comment7.target=void\ agregarElemento(java.lang.Object)
+comment8.params=posicion
+comment8.target=java.lang.String\ BuscarPosicion(int)
+comment9.params=posicion
+comment9.target=java.lang.String\ EliminarPosicion(int)
+numComments=11
